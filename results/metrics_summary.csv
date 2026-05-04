@@ -1,0 +1,3 @@
+Metric,Baseline,Fine-tuned,Difference
+WER,61.34%,65.46%,+4.12%
+CER,16.50%,19.51%,+3.01%
